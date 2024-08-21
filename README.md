@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Qasim Amiri 👋 &font=Fira%20Code&center=true&width=440&height=45&color=f75c71&vCenter=true&pause=1000000&size=25" /></a>
 </p>
 <!-- Hi, I'm Qasim Amiri 👋 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Senior+Software+Engineer;5%2B+years+experience+developing+web+and+mobile+apps." alt="Typing SVG" /></a>
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Senior+Software+Engineer;5%2B+years+development+experience" alt="Typing SVG" /></a>
+</div>
 
 - 📫 How to reach me: m.q.amiri@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/mohammad-qasim-amiri-820540196
