@@ -4,7 +4,7 @@
 </p>
 <!-- Hi, I'm Qasim Amiri 👋 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Senior+Software+Engineer;7%2B+years+experience+developing+web+and+mobile+apps;Eager+to+learn+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=735&height=100&lines=Senior+Software+Engineer;7%2B+years+experience+developing+web+and+mobile+apps;Eager+to+learn+new+things" alt="Typing SVG" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center"> 
